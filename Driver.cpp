@@ -1,0 +1,71 @@
+//Corrigan Newsome cnewsome2@cnm.edu
+//Demo Operators
+
+//Driver.cpp
+
+#include <iostream>
+
+int main()
+{
+	/*int a, b, c;
+	a = b = c = 0;*/
+
+	//fractions
+	//double x = 2 + 5.0 * 4 - 6.0 * 7 / 2;
+	//cout << "\n x: " << x;
+
+	//double y = (2 + 5.0 )* 4 - (6.0 * 7 / 2);
+	//cout << "\n y: " << y;
+
+	//double z = 2 + (5.0 * 4 - 6.0) * 7 / 2;
+	//cout << "\n z: " << z;
+
+	//double q = 2 + 5.0 * (4 - 6.0 * 7) / 2;
+	//cout << "\n q: " << q;
+
+	//Wrong ways and Right Ways
+	//double v, a{ 1 }, b{ 2 }, c{ 3 }, d{ 4 };
+	//v = (a + b)*(c - d);
+	///*cout << "\n v: " << v;*/
+
+	//v = a + b / c + d;
+	//double v2 = (a + b) / (c + d);
+	//cout << "\n v2: " << v2;
+
+	/*double SA, pi = 3.14, rad = 5.5;
+	SA = (pi) * (rad) * (rad);*/
+
+	////10.9. Which of the following work ? :
+	//SA = pi * rad * *2;
+	//SA = pi * rad ^ 2;
+	//SA = pi * rad * rad;
+	//SA = pi * pow(rad, 2);
+
+	//double m,
+	//	x{ 1 },
+	//	y{ 2 },
+	//	w{ 3 };
+
+	//m = sqrt(x * 3 * y) / w;
+
+	//double angle{ 0.5 }, f(angle);
+	//f(angle) = 2 / 3 sin(x - 0.3);
+	//cout << " fofangle: " << fofangle << "\n";
+
+	//int i{ 5 };
+	//i = i + 1;
+	//i = ++i;
+	//i = i++;
+	//cout << "i: " << ++i << "\n";
+	//cout << "i: " << i << "\n";
+
+	/*cout << "i: " << --i << "\n";
+	cout << "i: " << i << "\n";*/
+
+	//int diff{ 7 };
+	//diff = diff - 10;
+	//diff -= 10;
+	//cout << "diff: " << diff << "\n";
+
+	return 0;
+}
